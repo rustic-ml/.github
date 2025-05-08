@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 
-![About Me](IMG_2160.jpg)
+![About Me](IMG_2160.png)
 
 ## About Me:
 I’m an avid programmer with a deep passion for harnessing technology to create meaningful impact. Driven by a desire to contribute to the greater good, I dedicate my time to exploring how artificial intelligence and machine learning can address real-world challenges. Whether it’s through coding, learning, or sharing knowledge, my goal is to inspire and empower others to leverage these powerful tools for the benefit of humanity. When time allows, I’m committed to building projects that make a positive difference, always keeping an eye on ethical considerations and the broader societal implications of technology.
