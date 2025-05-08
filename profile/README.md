@@ -1,6 +1,10 @@
 # Demystifying AI: Real-World Machine Learning for the Greater Good
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ## Mission: Bridging the Gap
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+
+![About Me](IMG_2160.jpg)
+
+## Mission: Bridging the Gap
 
 Artificial Intelligence (AI) and Machine Learning (ML) are transforming our world, yet they often seem like enigmatic "black boxes." This project aims to **bridge the gap** between the complex algorithms and the tangible, real-world applications of this technology.
 
