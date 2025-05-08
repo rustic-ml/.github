@@ -4,6 +4,9 @@
 
 ![About Me](IMG_2160.jpg)
 
+## About Me:
+I’m an avid programmer with a deep passion for harnessing technology to create meaningful impact. Driven by a desire to contribute to the greater good, I dedicate my time to exploring how artificial intelligence and machine learning can address real-world challenges. Whether it’s through coding, learning, or sharing knowledge, my goal is to inspire and empower others to leverage these powerful tools for the benefit of humanity. When time allows, I’m committed to building projects that make a positive difference, always keeping an eye on ethical considerations and the broader societal implications of technology.
+
 ## Mission: Bridging the Gap
 
 Artificial Intelligence (AI) and Machine Learning (ML) are transforming our world, yet they often seem like enigmatic "black boxes." This project aims to **bridge the gap** between the complex algorithms and the tangible, real-world applications of this technology.
